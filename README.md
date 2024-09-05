@@ -1,4 +1,4 @@
-#Welcome to the LOC Lab Manual!
+# Welcome to the LOC Lab Manual!
 
 This site is intended to be used for **incoming, current, and outgoing** members of the LOC Lab. If we missed anything, please let Joan Dudney know. You can also do a pull request and we will review the changes. 
 
