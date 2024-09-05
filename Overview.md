@@ -3,7 +3,7 @@ title: "Overview"
 permalink: /Overview
 
 
-# Introduction {#intro}
+# Introduction
 
 We are a group of forest and plant ecologists focused on understanding ecosystem change. We use Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\
 
