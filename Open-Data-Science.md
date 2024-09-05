@@ -1,8 +1,6 @@
-# Open Data Science
-
 [Back to Main Page](README.md)
 
-## Our committment to Open Data Science
+# Our committment to Open Data Science
 We are committed to advancing open data science by promoting transparency, reproducibility, and collaboration in all research endeavors. We ensure that our data, methods, and code are accessible to the broader scientific community, fostering innovation through the sharing of resources. By adhering to open science principles, we aim to accelerate discoveries and encourage inclusive participation in scientific research.
 
 ## How we build reproducible code
