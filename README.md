@@ -4,7 +4,7 @@ We are a group of forest and plant ecologists focused on understanding ecosystem
 
 This site is intended to be used for **incoming, current, and outgoing** members of the LOC Lab. If we missed anything, please let Joan Dudney know. You can also do a pull request and we will review the changes. 
 
-Continue by clicking on the links below to read about our lab culture, philosophy, and organizational structures.
+Continue by clicking on the Site Pages below to read about our lab culture, philosophy, and organizational structures.
 
 We hope this has all the answers you need!
 
