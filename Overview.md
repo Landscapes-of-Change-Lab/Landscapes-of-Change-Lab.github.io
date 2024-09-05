@@ -1,8 +1,6 @@
 # Introduction
 
-We are a group of forest and plant ecologists focused on understanding ecosystem change. We use Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\
-
-Continue reading over the chapters for more details about our lab culture and philosophy. 
+Here you will find details about the general structure of our lab, including how we meet, communicate, give feedback and share resources.
 
 ## How we meet
 
@@ -17,7 +15,6 @@ We mostly send emails to each other for general communications or we use Slack f
 Feedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive.
 
 This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how to give and receive feedback.
-
 
 ## How we share things (and send them to Joan)
 
