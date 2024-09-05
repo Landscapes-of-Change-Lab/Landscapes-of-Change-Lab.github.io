@@ -1,1 +1,1 @@
-# Landscapes-of-Change-Lab.github.io
+# Welcome to the Landscapes of Change Lab Manual
