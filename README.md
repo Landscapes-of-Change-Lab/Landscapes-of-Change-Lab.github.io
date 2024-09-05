@@ -8,4 +8,4 @@ We hope this has all the answers you need!
 
 **Acknowledgements**
 
-The content for this site was modified and built off of the amazing [Fay Lab Manual](https://thefaylab.github.io/lab-manual/), which was inspired by [Openscapes](https://openscapes.org/) Openscapes is a fantastic organization run by the brilliant [Dr. Julia Stewart Lowndes](https://x.com/juliesquid)
+The content for this site was modified and built off of the amazing [Fay Lab Manual](https://thefaylab.github.io/lab-manual/), which was inspired by [Openscapes](https://openscapes.org/). Openscapes is a fantastic organization run by the brilliant [Dr. Julia Stewart Lowndes](https://x.com/juliesquid)
