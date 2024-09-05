@@ -2,6 +2,8 @@
 
 Below you will find details about the general structure of our lab, including how we meet, communicate, give feedback, and share resources.
 
+[Back to Main Page](README.md)
+
 ## How we meet
 
 We meet in-person every week in the LOC Lab in Bren Hall 1310. For folks who are traveling, they can attend via zoom. For one-on-one meetings with Joan, remember to send calendar invites with a zoom link if meeting online.
@@ -34,3 +36,5 @@ Where to find shared resources: - Google Drive - You will be given access to the
 
 ## References
 [The Fay Lab Manual](https://thefaylab.github.io/lab-manual)
+
+[Back to Main Page](README.md)
