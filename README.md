@@ -11,6 +11,7 @@ We hope this has all the answers you need!
 # Site Pages
 
 1. [Overview—how we do things](Overview.md)
+2. [How we code](Open-Data-Science)
 
 **Acknowledgements**
 
