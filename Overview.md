@@ -1,6 +1,6 @@
 # Introduction
 
-Here you will find details about the general structure of our lab, including how we meet, communicate, give feedback and share resources.
+Below you will find details about the general structure of our lab, including how we meet, communicate, give feedback, and share resources.
 
 ## How we meet
 
