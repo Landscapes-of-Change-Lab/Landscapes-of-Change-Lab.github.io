@@ -1,8 +1,8 @@
+[Back to Main Page](README.md)
+
 # Introduction
 
 Below you will find details about the general structure of our lab, including how we meet, communicate, give feedback, and share resources.
-
-[Back to Main Page](README.md)
 
 ## How we meet
 
