@@ -1,5 +1,3 @@
-# Welcome to the LOC Lab Manual!
-
 We are a group of forest and plant ecologists focused on understanding ecosystem change. We use Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.
 
 This site is intended to be used for **incoming, current, and outgoing** members of the LOC Lab. If we missed anything, please let Joan Dudney know. You can also do a pull request and we will review the changes. 
