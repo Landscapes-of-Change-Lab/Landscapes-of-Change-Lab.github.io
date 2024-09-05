@@ -1,1 +1,1 @@
-# Welcome to the Landscapes of Change Lab Manual
+# Welcome to the Landscapes of Change Lab Manual!
