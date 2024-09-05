@@ -4,6 +4,10 @@ This site is intended to be used for **incoming, current, and outgoing** members
 
 We hope this has all the answers you need!
 
+# Site Pages
+
+1. [Overview—how we do things](Overview.md)
+
 **Acknowledgements**
 
 The content for this site was modified and built off of the [Fay Lab Manual](https://thefaylab.github.io/lab-manual/), which was inspired by [Openscapes](https://openscapes.org/). Openscapes is a fantastic organization run by the brilliant [Dr. Julia Stewart Lowndes](https://x.com/juliesquid)
