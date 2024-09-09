@@ -33,7 +33,11 @@ Writing: Preferably via GoogleDoc or MS Word documents (other options are OK but
 
 ## Shared lab resources
 
-Where to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester. 
+Where to find shared resources: [LOC Lab Google Drive] https://drive.google.com/drive/folders/1aQzLoTCmUwdSaAPyrhzgAo8GqpBVOsOQ?usp=drive_link - You will be given access to the shared drive during onboarding. Take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester.
+
+## Coding environment
+
+We have our own [GitHub organization] https://github.com/Landscapes-of-Change-Lab! You will be given access to use this organization where you can collaborate on projects with LOC Labbies. We follow Open Science Principles, and it all starts here, with the GitHub organization.
 
 ## References
 [The Fay Lab Manual](https://thefaylab.github.io/lab-manual)
