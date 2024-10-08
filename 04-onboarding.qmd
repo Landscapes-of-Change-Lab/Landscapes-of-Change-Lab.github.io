@@ -26,8 +26,6 @@ Within the first few weeks of joining the Fay Lab, you should work with Gavin to
 
 ## Timesheets
 
-(__graduate students do not need to complete timesheets__)
-
 You can access you timesheets through the [HR portal in](https://my.umassd.edu/). Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).   
 
 Even if you are salaried, it's still important to keep track of and submit your vacation and sick time!
