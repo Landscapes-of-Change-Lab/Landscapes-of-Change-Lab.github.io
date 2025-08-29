@@ -1,7 +1,4 @@
----
-title: "Onboarding"
-output: html_document
----
+[Back to Main Page](README.md)
 
 ## Onboarding {#onboarding}
 
