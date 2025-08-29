@@ -3,10 +3,6 @@ title: "Courses"
 output: html_document
 ---
 
-# Courses {#courses}
-
-![](img/which_course.png)
-
 There are many courses available to you within The Bren School, Department of Ecology, Evolution & Marine Biology (EEMB), Department of Geography, and more!
 
 Remember, this is **your** program and you should get out of it what you want, including the academic training of interest to you.
