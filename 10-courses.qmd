@@ -1,12 +1,4 @@
----
-editor: Olivia Ross
-  markdown: 
-    wrap: 72
----
-
 # Courses {#courses}
-
-![](img/which_course.png)
 
 There are many courses available to you within The Bren School, Department of Ecology, Evolution & Marine Biology (EEMB), Department of Geography, and more!
 

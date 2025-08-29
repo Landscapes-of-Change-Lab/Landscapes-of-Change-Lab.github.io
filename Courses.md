@@ -1,7 +1,4 @@
----
-title: "Courses"
-output: html_document
----
+[Back to Main Page](README.md)
 
 There are many courses available to you within The Bren School, Department of Ecology, Evolution & Marine Biology (EEMB), Department of Geography, and more!
 
