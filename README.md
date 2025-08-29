@@ -13,7 +13,7 @@ We hope this has all the answers you need!
 1.  [Overview—how we do things](Overview.md)
 2.  [How we code](Open-Data-Science.md)
 3.  [Onboarding](Onboarding.md)
-4.  [Courses](10-courses.qmd)
+4.  [Courses](Courses.Rmd)
 
 ![What we do](assets/GlobalChangeEcology.png)
 

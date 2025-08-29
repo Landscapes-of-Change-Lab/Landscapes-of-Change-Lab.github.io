@@ -1,0 +1,73 @@
+---
+title: "Courses"
+output: html_document
+---
+
+# Courses {#courses}
+
+![](img/which_course.png)
+
+There are many courses available to you within The Bren School, Department of Ecology, Evolution & Marine Biology (EEMB), Department of Geography, and more!
+
+Remember, this is **your** program and you should get out of it what you want, including the academic training of interest to you.
+
+That said, there are some courses that most students in the LOC lab take (in part due to program requirements), so here we lay out some suggestions and provide resources for courses offered at both Bren and elsewhere on campus that lab members have found useful.
+
+Course of study should be selected with the program requirements in mind - as always, refer to the [List of Bren Courses](https://bren.ucsb.edu/phd-program/phd-academics/phd-courses) for details.
+
+# Suggested Course Schedule & Classes
+
+In the LOC lab, we tend to take most of the quantitative courses Bren has to offer! Most Bren data science courses are offered each year.
+
+## Year 1
+
+The Bren PhD program has one course requirement during fall quarter of your first year.
+
+**Fall:**\
+*Required Course* -\
+[ESM 512: Research Ethics & Conduct (2 units)](https://bren.ucsb.edu/courses/esm-512)\
+*Other Course Suggestions* -\
+ESM 206:Statistics and Data Analysis for Environmental Science & Management
+
+**Winter:** No required courses.\
+*Other Course Suggestions* -\
+ESM 244:Advanced Data Analysis (4 units)\
+ESM 262: Computing for Environmental Science and Management (2 units)
+
+**Spring:** No required courses.\
+*Other Course Suggestions* -\
+ESM 232: Environmental Modeling (4 units) EEMB 511: Writing Science (2 units)
+
+## Year 2
+
+The Bren PhD program has the remaining course requirements during fall and spring of year 2.
+
+**Fall:** *Required Course* - [ESM 513: Environmental Research Design (4 units)](https://bren.ucsb.edu/courses/esm-513)\
+*Other Course Suggestions* -\
+EDS 223: Geospatial Analysis (4 units)
+
+**Winter:** *Required Course* -[ESM 514: Collaborative Interdisciplinary Research (4 units)](https://bren.ucsb.edu/courses/esm-514)\
+
+**Spring:** No required courses.\
+
+Typically, most remaining coursework is completed in years 1-2, but this will vary by individual.
+
+## Directed Reading & Research
+
+In addition to your course work, each quarter you must enroll in [Directed Readings and Research](https://bren.ucsb.edu/courses/esm-596). This is a variable unit course that you must enroll in to reach full-time student status, or 12-units.
+
+## Other courses you might want to take
+
+GEOG 279: Applied Statistics in Geography (4 units)\
+GEOG 274: Conservation GIS (4 units)\
+EEMB 595D: Plant Ecology (2 unit seminar, offered each quarter)\
+
+Of course there are lots of other course offerings - these are the ones that lab members have taken more than once.
+
+See the course catalogs for more!
+
+[**Bren Course Catalog**](https://bren.ucsb.edu/masters-programs/master-environmental-science-and-management/academics/mesm-courses)
+
+[**Geography Course Catalog**](https://catalog.ucsb.edu/departments/GEOG/courses)
+
+[**Ecology, Evolution & Marine Biology Catalog**](https://catalog.ucsb.edu/departments/EEMB/courses)
