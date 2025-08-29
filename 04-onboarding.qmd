@@ -1,5 +1,7 @@
 ## Onboarding {#onboarding}
 
+[Back to Main Page](README.html)
+
 Welcome to the Landscapes of Change Lab at UC Santa Barbara!
 
 Here are some resources to help you get settled into the Lab.
